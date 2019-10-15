@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2d8416cc7e6a147b5064d3770cd503, type: 3}
+  m_Name: ZeeARData
+  m_EditorClassIdentifier: 
+  products:
+  - NameProduct: Coca-Cola
+    IdProduct: 0
+    trackersPrefab:
+    - {fileID: 7368610367261692949, guid: 1facab94aa73a664daa87b58aaeb8e5a, type: 3}
+  - NameProduct: Shoes
+    IdProduct: 1
+    trackersPrefab:
+    - {fileID: 7368610367261692949, guid: c6e958286a6fc5a429ce35c76a6d7812, type: 3}
+  - NameProduct: Chocolate
+    IdProduct: 2
+    trackersPrefab:
+    - {fileID: 7368610367261692949, guid: e9c4ecfe8e9aa414ab6a31ef835cb10e, type: 3}

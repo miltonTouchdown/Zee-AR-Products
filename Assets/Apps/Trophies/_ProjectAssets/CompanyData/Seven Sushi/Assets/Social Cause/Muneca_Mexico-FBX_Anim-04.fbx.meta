@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: f14e78aefe9ba7a4081151a49068b2b2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aro01_l
+    100002: aro01_r
+    100004: aro02_l
+    100006: aro02_r
+    100008: cara
+    100010: Chat_Bubble
+    100012: Circle1
+    100014: Circle2
+    100016: Circle3
+    100018: cuerpo
+    100020: falda
+    100022: flor01asddas
+    100024: flor02asdasd
+    100026: flor03asdd
+    100028: flor04asd
+    100030: flor05asddas
+    100032: flor06asddas
+    100034: flor07asd
+    100036: joint1
+    100038: joint2
+    100040: joint3
+    100042: joint4
+    100044: mexico
+    100046: Muneca_Guatemala_05_anim:bottom
+    100048: //RootNode
+    100050: ojo_l
+    100052: ojo_l1
+    100054: ojo_r
+    100056: ojo_r1
+    100058: pelo1
+    100060: pestana_l
+    100062: pestana_r
+    400000: aro01_l
+    400002: aro01_r
+    400004: aro02_l
+    400006: aro02_r
+    400008: cara
+    400010: Chat_Bubble
+    400012: Circle1
+    400014: Circle2
+    400016: Circle3
+    400018: cuerpo
+    400020: falda
+    400022: flor01asddas
+    400024: flor02asdasd
+    400026: flor03asdd
+    400028: flor04asd
+    400030: flor05asddas
+    400032: flor06asddas
+    400034: flor07asd
+    400036: joint1
+    400038: joint2
+    400040: joint3
+    400042: joint4
+    400044: mexico
+    400046: Muneca_Guatemala_05_anim:bottom
+    400048: //RootNode
+    400050: ojo_l
+    400052: ojo_l1
+    400054: ojo_r
+    400056: ojo_r1
+    400058: pelo1
+    400060: pestana_l
+    400062: pestana_r
+    2000000: Muneca_Guatemala_05_anim:bottom
+    2100000: mat_mexico3
+    2100002: lambert6asd
+    2100004: lambert8asd
+    2100006: lambert7asd
+    2100008: lambert5asd
+    2100010: mat_pelo
+    2100012: lambert9
+    2100014: lambert10
+    2100016: Pestanias_Mexico
+    2100018: ChatBubbleWea
+    2300000: aro01_l
+    2300002: aro01_r
+    2300004: aro02_l
+    2300006: aro02_r
+    2300008: cara
+    2300010: Chat_Bubble
+    2300012: flor01asddas
+    2300014: flor02asdasd
+    2300016: flor03asdd
+    2300018: flor04asd
+    2300020: flor05asddas
+    2300022: flor06asddas
+    2300024: flor07asd
+    2300026: ojo_l
+    2300028: ojo_l1
+    2300030: ojo_r
+    2300032: ojo_r1
+    2300034: pelo1
+    2300036: pestana_l
+    2300038: pestana_r
+    3300000: aro01_l
+    3300002: aro01_r
+    3300004: aro02_l
+    3300006: aro02_r
+    3300008: cara
+    3300010: Chat_Bubble
+    3300012: flor01asddas
+    3300014: flor02asdasd
+    3300016: flor03asdd
+    3300018: flor04asd
+    3300020: flor05asddas
+    3300022: flor06asddas
+    3300024: flor07asd
+    3300026: ojo_l
+    3300028: ojo_l1
+    3300030: ojo_r
+    3300032: ojo_r1
+    3300034: pelo1
+    3300036: pestana_l
+    3300038: pestana_r
+    4300000: falda
+    4300002: cuerpo
+    4300004: cara
+    4300006: flor07asd
+    4300008: flor06asddas
+    4300010: flor05asddas
+    4300012: flor04asd
+    4300014: flor03asdd
+    4300016: flor02asdasd
+    4300018: flor01asddas
+    4300020: pelo1
+    4300022: aro01_l
+    4300024: aro02_l
+    4300026: aro01_r
+    4300028: aro02_r
+    4300030: ojo_l
+    4300032: ojo_r
+    4300034: pestana_r
+    4300036: pestana_l
+    4300038: ojo_r1
+    4300040: ojo_l1
+    4300042: Chat_Bubble
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cuerpo
+    13700002: falda
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChatBubbleWea
+    second: {fileID: 2100000, guid: 5c335982bc33fb84eaa870c199d59aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pestanias_Mexico
+    second: {fileID: 2100000, guid: ea56e1d966386ba498c89066d46ceea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 25a6ba90569ea684d8e353b6d45a01dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5asd
+    second: {fileID: 2100000, guid: 90af02e8e25457a4c8a90f0cc887ea46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6asd
+    second: {fileID: 2100000, guid: 5230c77a0c375a94fa791119042ed9a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7asd
+    second: {fileID: 2100000, guid: 7bc9a2f1543144e40a14a894e2baec5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8asd
+    second: {fileID: 2100000, guid: aefd0b4cf9a5c4a43a1de3c76db638e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 51f23486ad497da428677e29c6d6121a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_mexico3
+    second: {fileID: 2100000, guid: da37b5755249da64eb993c68e7b2e63d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pelo
+    second: {fileID: 2100000, guid: 0805f17c33719a34e88f0b75c7af25a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.08203125
+        functionName: AudioStart
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

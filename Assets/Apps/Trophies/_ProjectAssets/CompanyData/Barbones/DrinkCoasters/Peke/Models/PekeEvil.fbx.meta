@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: a298f03c09154f746afe89d8a8c736fb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: barba
+    100002: //RootNode
+    100004: calzoncillos
+    100006: cejas
+    100008: Central_hip
+    100010: Ctrl_Hip
+    100012: Ctrl_Leg_Left
+    100014: Ctrl_Leg_Right
+    100016: cuerpo
+    100018: dientes
+    100020: espuma
+    100022: Head
+    100024: ik_Leg_Left
+    100026: ik_Leg_Right
+    100028: ik_Spine
+    100030: joint10
+    100032: joint11
+    100034: joint12
+    100036: joint13
+    100038: joint14
+    100040: joint2
+    100042: joint4
+    100044: joint7
+    100046: joint8
+    100048: joint9
+    100050: Leg_Left
+    100052: Leg_Right
+    100054: pCone1
+    100056: pCone2
+    100058: pestanas1
+    100060: shopero
+    100062: spine_curve
+    400000: barba
+    400002: //RootNode
+    400004: calzoncillos
+    400006: cejas
+    400008: Central_hip
+    400010: Ctrl_Hip
+    400012: Ctrl_Leg_Left
+    400014: Ctrl_Leg_Right
+    400016: cuerpo
+    400018: dientes
+    400020: espuma
+    400022: Head
+    400024: ik_Leg_Left
+    400026: ik_Leg_Right
+    400028: ik_Spine
+    400030: joint10
+    400032: joint11
+    400034: joint12
+    400036: joint13
+    400038: joint14
+    400040: joint2
+    400042: joint4
+    400044: joint7
+    400046: joint8
+    400048: joint9
+    400050: Leg_Left
+    400052: Leg_Right
+    400054: pCone1
+    400056: pCone2
+    400058: pestanas1
+    400060: shopero
+    400062: spine_curve
+    2100000: mat_pelo
+    2100002: mat_cuerpo
+    2100004: mat_shopero
+    2100006: mat_calzones
+    2100008: Horn1
+    2300000: espuma
+    2300002: shopero
+    3300000: espuma
+    3300002: shopero
+    4300000: cejas
+    4300002: dientes
+    4300004: barba
+    4300006: shopero
+    4300008: espuma
+    4300010: pestanas1
+    4300012: cuerpo
+    4300014: calzoncillos
+    4300016: pCone1
+    4300018: pCone2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: barba
+    13700002: calzoncillos
+    13700004: cejas
+    13700006: cuerpo
+    13700008: dientes
+    13700010: pCone1
+    13700012: pCone2
+    13700014: pestanas1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

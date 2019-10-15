@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab709c25076033f46b9be09cffa5815f, type: 3}
+  m_Name: ARExpoData
+  m_EditorClassIdentifier: 
+  expos:
+  - expoName: ScannerSR3
+    idExpo: 11
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 7368610367261692949, guid: 1facab94aa73a664daa87b58aaeb8e5a, type: 3}
+  - expoName: SentryRelaves
+    idExpo: 3
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 9018374859742226817, guid: ad4a24443dd3750449317b1757dadcfd, type: 3}
+  - expoName: KeynoteDeepLearning
+    idExpo: 2
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 1272617310627823156, guid: 0a6c5c7d109d76748a606c71dd83c76a, type: 3}
+  - expoName: EvolutionEpoch
+    idExpo: 10
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 8729437416772988983, guid: 89ed0f4db09176242bab48aa76118ea5, type: 3}
+  - expoName: SentryTopos
+    idExpo: 17
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 2603244958751568778, guid: e6347d116d0c10d4180feeab06d9e252, type: 3}
+  - expoName: DrillholeOptimiser
+    idExpo: 20
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 2367151090034101605, guid: d48082ea6f062504782d6943191aa67b, type: 3}
+  - expoName: EurekayVulkan
+    idExpo: 41
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 6990698042707485449, guid: a908a488605e2274abf32a7a8349065d, type: 3}
+  - expoName: EscaneoLaserMov
+    idExpo: 42
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 5445749092726462022, guid: 096b39504a99e3c4aa9aaaf61a448394, type: 3}
+  - expoName: GradeControlOptimiser
+    idExpo: 16
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 5959734714966946014, guid: 5ba1e45a6168b5e4c893e73b72f04397, type: 3}
+  - expoName: DrillandBlastEpoch
+    idExpo: 18
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 12386601953076735, guid: 4815b280c5f78084ab3c3c77192332eb, type: 3}
+  - expoName: BienvenidaApertura
+    idExpo: 1
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 6785011790070761870, guid: 8f463197eab1d3c4cb8d94c884bd256b, type: 3}
+  - expoName: InteractiveBlockPlanner
+    idExpo: 21
+    hasDefinedARScene: 0
+    definedARScene: 0
+    expoLogo: {fileID: 21300000, guid: 28f6e8b3508c49548944417042a6e1fc, type: 3}
+    trackersPrefab:
+    - {fileID: 8473811695597866924, guid: b2f2d42025591e54ab25c68fa29be0a1, type: 3}

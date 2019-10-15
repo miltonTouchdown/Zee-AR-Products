@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5fad10d6c4cc6ff4e838c4c4716eea88
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ala_der
+    100002: ala_izq
+    100004: auroeola:Mesh
+    100006: barba
+    100008: //RootNode
+    100010: calzoncillos
+    100012: cejas
+    100014: Central_hip
+    100016: Ctrl_Hip
+    100018: Ctrl_Leg_Left
+    100020: Ctrl_Leg_Right
+    100022: cuerpo
+    100024: dientes
+    100026: espuma
+    100028: Head
+    100030: ik_Leg_Left
+    100032: ik_Leg_Right
+    100034: ik_Spine
+    100036: joint10
+    100038: joint11
+    100040: joint12
+    100042: joint13
+    100044: joint14
+    100046: joint2
+    100048: joint4
+    100050: joint7
+    100052: joint8
+    100054: joint9
+    100056: Leg_Left
+    100058: Leg_Right
+    100060: pestanas1
+    100062: shopero
+    100064: spine_curve
+    400000: ala_der
+    400002: ala_izq
+    400004: auroeola:Mesh
+    400006: barba
+    400008: //RootNode
+    400010: calzoncillos
+    400012: cejas
+    400014: Central_hip
+    400016: Ctrl_Hip
+    400018: Ctrl_Leg_Left
+    400020: Ctrl_Leg_Right
+    400022: cuerpo
+    400024: dientes
+    400026: espuma
+    400028: Head
+    400030: ik_Leg_Left
+    400032: ik_Leg_Right
+    400034: ik_Spine
+    400036: joint10
+    400038: joint11
+    400040: joint12
+    400042: joint13
+    400044: joint14
+    400046: joint2
+    400048: joint4
+    400050: joint7
+    400052: joint8
+    400054: joint9
+    400056: Leg_Left
+    400058: Leg_Right
+    400060: pestanas1
+    400062: shopero
+    400064: spine_curve
+    2100000: mat_alas
+    2100002: mat_pelo
+    2100004: mat_cuerpo
+    2100006: mat_shopero
+    2100008: mat_aureola
+    2100010: mat_calzones
+    2300000: auroeola:Mesh
+    2300002: espuma
+    2300004: shopero
+    3300000: auroeola:Mesh
+    3300002: espuma
+    3300004: shopero
+    4300000: ala_der
+    4300002: ala_izq
+    4300004: cejas
+    4300006: dientes
+    4300008: barba
+    4300010: shopero
+    4300012: espuma
+    4300014: pestanas1
+    4300016: cuerpo
+    4300018: auroeola:Mesh
+    4300020: calzoncillos
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ala_der
+    13700002: ala_izq
+    13700004: barba
+    13700006: calzoncillos
+    13700008: cejas
+    13700010: cuerpo
+    13700012: dientes
+    13700014: pestanas1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

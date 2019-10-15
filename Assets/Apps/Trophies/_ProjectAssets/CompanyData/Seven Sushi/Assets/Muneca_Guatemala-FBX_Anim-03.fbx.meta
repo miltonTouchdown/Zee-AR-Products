@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 1de1af6731132b74caa4f1508e2c9733
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: amarra
+    100002: aro_l
+    100004: aro_r
+    100006: bottom
+    100008: cara
+    100010: cuerpo
+    100012: joint1
+    100014: joint2
+    100016: joint3
+    100018: joint4
+    100020: //RootNode
+    100022: nurbsCircle1
+    100024: nurbsCircle2
+    100026: nurbsCircle3
+    100028: ojo_l
+    100030: ojo_l1
+    100032: ojo_r
+    100034: ojo_r1
+    100036: pelo1
+    100038: pestana_l
+    100040: pestana_r
+    100042: piedra01_aro_l
+    100044: piedra01_aro_r
+    100046: piedra02_aro_l
+    100048: piedra02_aro_r
+    100050: piedra03_aro_l
+    100052: piedra03_aro_r
+    100054: pPlane1
+    100056: vacija
+    400000: amarra
+    400002: aro_l
+    400004: aro_r
+    400006: bottom
+    400008: cara
+    400010: cuerpo
+    400012: joint1
+    400014: joint2
+    400016: joint3
+    400018: joint4
+    400020: //RootNode
+    400022: nurbsCircle1
+    400024: nurbsCircle2
+    400026: nurbsCircle3
+    400028: ojo_l
+    400030: ojo_l1
+    400032: ojo_r
+    400034: ojo_r1
+    400036: pelo1
+    400038: pestana_l
+    400040: pestana_r
+    400042: piedra01_aro_l
+    400044: piedra01_aro_r
+    400046: piedra02_aro_l
+    400048: piedra02_aro_r
+    400050: piedra03_aro_l
+    400052: piedra03_aro_r
+    400054: pPlane1
+    400056: vacija
+    2000000: bottom
+    2100000: mat_guatemala
+    2100002: mat_pelo
+    2100004: caralow2_lambert1
+    2100006: lambert8
+    2100008: lambert7
+    2100010: lambert6
+    2100012: lambert5
+    2100014: ojos_piel
+    2100016: mat_vacija
+    2100018: ChatGlobo
+    2300000: amarra
+    2300002: aro_l
+    2300004: aro_r
+    2300006: cara
+    2300008: ojo_l
+    2300010: ojo_l1
+    2300012: ojo_r
+    2300014: ojo_r1
+    2300016: pelo1
+    2300018: pestana_l
+    2300020: pestana_r
+    2300022: piedra01_aro_l
+    2300024: piedra01_aro_r
+    2300026: piedra02_aro_l
+    2300028: piedra02_aro_r
+    2300030: piedra03_aro_l
+    2300032: piedra03_aro_r
+    2300034: pPlane1
+    2300036: vacija
+    3300000: amarra
+    3300002: aro_l
+    3300004: aro_r
+    3300006: cara
+    3300008: ojo_l
+    3300010: ojo_l1
+    3300012: ojo_r
+    3300014: ojo_r1
+    3300016: pelo1
+    3300018: pestana_l
+    3300020: pestana_r
+    3300022: piedra01_aro_l
+    3300024: piedra01_aro_r
+    3300026: piedra02_aro_l
+    3300028: piedra02_aro_r
+    3300030: piedra03_aro_l
+    3300032: piedra03_aro_r
+    3300034: pPlane1
+    3300036: vacija
+    4300000: cuerpo
+    4300002: cara
+    4300004: pelo1
+    4300006: amarra
+    4300008: pestana_r
+    4300010: pestana_l
+    4300012: ojo_r
+    4300014: ojo_l
+    4300016: aro_l
+    4300018: piedra01_aro_l
+    4300020: piedra02_aro_l
+    4300022: piedra03_aro_l
+    4300024: aro_r
+    4300026: piedra01_aro_r
+    4300028: piedra02_aro_r
+    4300030: piedra03_aro_r
+    4300032: ojo_r1
+    4300034: ojo_l1
+    4300036: vacija
+    4300038: pPlane1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cuerpo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChatGlobo
+    second: {fileID: 2100000, guid: 95c3e76c27b2d1545ad10a6f092605a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caralow2_lambert1
+    second: {fileID: 2100000, guid: 4b0f02c03e66dec4a8c4514fba297e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 5c89e280ded8c7a4397fb7dcde011135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 4e84b7d85cd35034a97287fb7ce4d173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 0712eb3f3a52f0a48ba02e026a61ab4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 42e16766c574eab488019901f4783041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_guatemala
+    second: {fileID: 2100000, guid: ab29a492b4a8a854bb745f98dfab6866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pelo
+    second: {fileID: 2100000, guid: 29e33431105ea5047b04afddeb817fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_vacija
+    second: {fileID: 2100000, guid: 0693ce1dae24c8046813d794ee7c3ded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ojos_piel
+    second: {fileID: 2100000, guid: 6990ab935a19a204fa1f16baf842f023, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.08042279
+        functionName: AudioStart
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

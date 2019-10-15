@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 2b1f2ad43b418fe48a027073d12a036d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aureola1
+    100002: aureola2
+    100004: burbujas
+    100006: DevilTail
+    100008: HIDEME
+    100010: hielo1
+    100012: hielo4
+    100014: hielo5
+    100016: liquido
+    100018: pCone1
+    100020: pCone2
+    100022: //RootNode
+    100024: vaso
+    400000: aureola1
+    400002: aureola2
+    400004: burbujas
+    400006: DevilTail
+    400008: HIDEME
+    400010: hielo1
+    400012: hielo4
+    400014: hielo5
+    400016: liquido
+    400018: pCone1
+    400020: pCone2
+    400022: //RootNode
+    400024: vaso
+    2100000: vaso1
+    2100002: mat_hielo
+    2100004: burbujas1
+    2100006: liquido1
+    2100008: lambert1
+    2100010: aureola
+    2100012: Horn
+    2100014: Horn1
+    2300000: aureola1
+    2300002: aureola2
+    2300004: burbujas
+    2300006: DevilTail
+    2300008: HIDEME
+    2300010: hielo1
+    2300012: hielo4
+    2300014: hielo5
+    2300016: liquido
+    2300018: pCone1
+    2300020: pCone2
+    2300022: vaso
+    3300000: aureola1
+    3300002: aureola2
+    3300004: burbujas
+    3300006: DevilTail
+    3300008: HIDEME
+    3300010: hielo1
+    3300012: hielo4
+    3300014: hielo5
+    3300016: liquido
+    3300018: pCone1
+    3300020: pCone2
+    3300022: vaso
+    4300000: vaso
+    4300002: hielo4
+    4300004: burbujas
+    4300006: hielo5
+    4300008: hielo1
+    4300010: liquido
+    4300012: HIDEME
+    4300014: aureola1
+    4300016: aureola2
+    4300018: pCone1
+    4300020: pCone2
+    4300022: DevilTail
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

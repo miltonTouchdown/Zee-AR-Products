@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dfde0ff1de18f4418d9f63ffde9d782, type: 3}
+  m_Name: LocalizationOptions
+  m_EditorClassIdentifier: 
+  SuportedLangs: 220000000a000000
+  BaseLang: 34
+  keyGroupLocation_Menu: Menu
+  GroupLocation_Menu:
+  - language: 10
+    PubSelectionText: Select your Location
+    PubSelectionWindowHeaderText: Select your current Location
+    CameraButtonARText: Camera AR
+    PrizeButtonText: Prizes
+    ContestButtonText: Who am I helping?
+    BottomInstructionText: Point with the ARcamera to another phone with this image
+      and get a Trophy!
+    BubbleTrophiesLogoText: Gives us your feedback! Tap here
+  - language: 34
+    PubSelectionText: "Selecciona tu locaci\xF3n"
+    PubSelectionWindowHeaderText: "Selecciona tu locaci\xF3n actual"
+    CameraButtonARText: Realidad Aumentada
+    PrizeButtonText: Premios
+    ContestButtonText: "\xBFA qui\xE9n ayudo?"
+    BottomInstructionText: "Apunta con la Camara AR a otro movil en este mismo menu
+      activo o presiona aqu\xED para ver esta imagen en el browser e imprimirla."
+    BubbleTrophiesLogoText: "\xA1Danos tu opini\xF3n!       Pulsa aqu\xED"
+  keyGroupLocation_Contests: Contests
+  GroupLocation_Contests:
+  - language: 10
+  - language: 34
+  keyGroupLocation_Markers: Markers
+  GroupLocation_Markers:
+  - language: 34
+    mexicoGuatemalaBigDisplay:
+      SocialCauseDescription: "After the 7.1 Mexico \nearthquake in September \n2017
+        and the eruption of \nVolc\xE1n de Fuego in \nGuatemala in April 2018,\nthe
+        NGO TECHO is \nworking directly \nin the construction of \nemergency housing
+        \n(temporary shelters).\n\nThese shelters provide \na dignified space to\nefficiently
+        respond to \nthe situation of \nvulnerability that\nfamilies live after the
+        \nemergency.\r\n"
+      Title: "Emergency Funds for \nMexico & Guatemala"
+      DonationGoalText: 'Donations Goal:'
+      DonationGoalNumber: $75.000USD
+      MoreInfo: 'For more info,
+
+        please check'
+    mexicoGuatemalaTinyDisplay:
+      SocialCauseDescription1: "Despu\xE9s del terremoto 7.1 en M\xE9xico y la erupci\xF3n
+        del Volc\xE1n de Fuego en Guatemala, la ONG TECHO est\xE1 directamente trabajando
+        en la construcci\xF3n de viviendas de emergencia."
+      SocialCauseDescription2: "Estas viviendas proveen a las familias de un espacio
+        digno, respondiendo eficientemente a la situaci\xF3n de vulnerabilidad que
+        viven despu\xE9s de la emergencia."
+      Title: "Fondo de Emergencia para M\xE9xico y Guatemala"
+      DonationGoalText: Meta Donaciones
+      DonationGoalNumber: $75.000USD
+      MoreInfo: "visita clyc.me para m\xE1s informaci\xF3n"
+  - language: 10
+    mexicoGuatemalaBigDisplay:
+      SocialCauseDescription: "After the 7.1 Mexico \nearthquake in September \n2017
+        and the eruption of \nVolc\xE1n de Fuego in \nGuatemala in April 2018,\nthe
+        NGO TECHO is \nworking directly \nin the construction of \nemergency housing
+        \n(temporary shelters).\n\nThese shelters provide \na dignified space to\nefficiently
+        respond to \nthe situation of \nvulnerability that\nfamilies live after the
+        \nemergency.\r\n"
+      Title: "Emergency Funds for \nMexico & Guatemala"
+      DonationGoalText: 'Donations Goal:'
+      DonationGoalNumber: $75.000USD
+      MoreInfo: 'For more info,
+
+        please check'
+    mexicoGuatemalaTinyDisplay:
+      SocialCauseDescription1: "After the 7.1 Mexico earthquake and the eruption of
+        Volc\xE1n de Fuego in Guatemala, the NGO TECHO is working directly in the
+        construction of emergency housings.\n"
+      SocialCauseDescription2: "These shelters provide a dignified space to efficiently
+        respond to the situation of vulnerability that families live after the emergency.\r"
+      Title: "Emergency Funds for \nMexico & Guatemala"
+      DonationGoalText: 'Donations Goal:'
+      DonationGoalNumber: $75.000USD
+      MoreInfo: visit clyc.me for more info

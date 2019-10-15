@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79792bb647faccc478c16ac8a8f1d8c5, type: 3}
+  m_Name: PubsData
+  m_EditorClassIdentifier: 
+  pubs:
+  - pubName: Barbones Vina
+    pubLocalizedData:
+    - language: 0
+    noLocalizedPub: 1
+    defaultLang: 34
+    hasDefinedARScene: 1
+    definedARScene: 8
+    hasDefinedPrizeScene: 1
+    definedPrizeScene: 10
+    hidePubInList: 0
+    pubLogo: {fileID: 21300000, guid: 9e97fc370708e9346aa20eba398a4552, type: 3}
+    definedConstestUrl: 1
+    pubConstestButtonUrl: http://www.clyc.me/clubdelmovimiento
+    trackersPrefab: []
+  - pubName: Barbones Valpo
+    pubLocalizedData:
+    - language: 0
+    - language: 0
+    noLocalizedPub: 1
+    defaultLang: 34
+    hasDefinedARScene: 1
+    definedARScene: 8
+    hasDefinedPrizeScene: 1
+    definedPrizeScene: 10
+    hidePubInList: 0
+    pubLogo: {fileID: 21300000, guid: 9e97fc370708e9346aa20eba398a4552, type: 3}
+    definedConstestUrl: 1
+    pubConstestButtonUrl: http://www.clyc.me/escueladeinvierno
+    trackersPrefab: []
+  - pubName: Seven Sushi Cafe
+    pubLocalizedData:
+    - language: 0
+    - language: 0
+    noLocalizedPub: 1
+    defaultLang: 34
+    hasDefinedARScene: 0
+    definedARScene: 0
+    hasDefinedPrizeScene: 1
+    definedPrizeScene: 6
+    hidePubInList: 0
+    pubLogo: {fileID: 21300000, guid: e35ec35a5e1af934e93d06040a3aa089, type: 3}
+    definedConstestUrl: 1
+    pubConstestButtonUrl: http://www.clyc.me/fondoemergencias
+    trackersPrefab:
+    - {fileID: 1657185106805392, guid: 9862826673f62a34bbfdbf4cbba8a17e, type: 3}
+    - {fileID: 1602739814966204, guid: b61f82b01b1724846a423848db2b9c0a, type: 3}
+    - {fileID: 1992129414109136, guid: ed71f06c9d49eea46af0c0c00a252353, type: 3}
+  ContestButtonURL: http://www.clyc.me/fondoemergencias

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 2f9a837e4205a39438b53fce3c92486d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: baston
+    100004: cabeza
+    100006: cuerpo
+    100008: espejo_l
+    100010: espejo_r
+    100012: lentes
+    100014: ojo_l
+    100016: ojo_r
+    100018: pedestal
+    100020: //RootNode
+    400000: base
+    400002: baston
+    400004: cabeza
+    400006: cuerpo
+    400008: espejo_l
+    400010: espejo_r
+    400012: lentes
+    400014: ojo_l
+    400016: ojo_r
+    400018: pedestal
+    400020: //RootNode
+    2100000: lambert8
+    2100002: lambert7
+    2100004: lambert10
+    2100006: lambert11
+    2100008: lambert9
+    2300000: base
+    2300002: baston
+    2300004: cabeza
+    2300006: cuerpo
+    2300008: espejo_l
+    2300010: espejo_r
+    2300012: lentes
+    2300014: ojo_l
+    2300016: ojo_r
+    2300018: pedestal
+    3300000: base
+    3300002: baston
+    3300004: cabeza
+    3300006: cuerpo
+    3300008: espejo_l
+    3300010: espejo_r
+    3300012: lentes
+    3300014: ojo_l
+    3300016: ojo_r
+    3300018: pedestal
+    4300000: cuerpo
+    4300002: ojo_l
+    4300004: ojo_r
+    4300006: cabeza
+    4300008: pedestal
+    4300010: base
+    4300012: baston
+    4300014: espejo_l
+    4300016: lentes
+    4300018: espejo_r
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 79b08e234e5fa854487106855e8969d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: c06c1ec2628e94a45a66dd875d8085ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 8e19ed3437722ef49aff7eaa5df19c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: d47fec2ec027ebe4586409bcba5c972f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 5c89e280ded8c7a4397fb7dcde011135, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

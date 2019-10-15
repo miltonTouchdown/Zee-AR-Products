@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 3ba6896e45d97a34fbe01ddaff501151
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: calzoncllo
+    100004: cejas1
+    100006: Cuerno01
+    100008: Cuerno02
+    100010: cuerpo1
+    100012: DevilTail
+    100014: group1
+    100016: HIDEME
+    100018: lentes
+    100020: meada
+    100022: ojo_derecho
+    100024: ojo_izquierdo
+    100026: pelo
+    100028: pSphere1
+    100030: pSphere10
+    100032: pSphere2
+    100034: pSphere3
+    100036: pSphere4
+    100038: pSphere5
+    100040: pSphere6
+    100042: pSphere7
+    100044: pSphere8
+    100046: pSphere9
+    100048: splash1
+    400000: //RootNode
+    400002: calzoncllo
+    400004: cejas1
+    400006: Cuerno01
+    400008: Cuerno02
+    400010: cuerpo1
+    400012: DevilTail
+    400014: group1
+    400016: HIDEME
+    400018: lentes
+    400020: meada
+    400022: ojo_derecho
+    400024: ojo_izquierdo
+    400026: pelo
+    400028: pSphere1
+    400030: pSphere10
+    400032: pSphere2
+    400034: pSphere3
+    400036: pSphere4
+    400038: pSphere5
+    400040: pSphere6
+    400042: pSphere7
+    400044: pSphere8
+    400046: pSphere9
+    400048: splash1
+    2100000: lambert1
+    2100002: CuerpoPiel
+    2100004: Horn
+    2100006: Pelo
+    2100008: Lentes
+    2100010: Alas
+    2100012: cejas
+    2100014: Halo
+    2300000: calzoncllo
+    2300002: cejas1
+    2300004: Cuerno01
+    2300006: Cuerno02
+    2300008: cuerpo1
+    2300010: DevilTail
+    2300012: HIDEME
+    2300014: lentes
+    2300016: meada
+    2300018: ojo_derecho
+    2300020: ojo_izquierdo
+    2300022: pelo
+    2300024: pSphere1
+    2300026: pSphere10
+    2300028: pSphere2
+    2300030: pSphere3
+    2300032: pSphere4
+    2300034: pSphere5
+    2300036: pSphere6
+    2300038: pSphere7
+    2300040: pSphere8
+    2300042: pSphere9
+    2300044: splash1
+    3300000: calzoncllo
+    3300002: cejas1
+    3300004: Cuerno01
+    3300006: Cuerno02
+    3300008: cuerpo1
+    3300010: DevilTail
+    3300012: HIDEME
+    3300014: lentes
+    3300016: meada
+    3300018: ojo_derecho
+    3300020: ojo_izquierdo
+    3300022: pelo
+    3300024: pSphere1
+    3300026: pSphere10
+    3300028: pSphere2
+    3300030: pSphere3
+    3300032: pSphere4
+    3300034: pSphere5
+    3300036: pSphere6
+    3300038: pSphere7
+    3300040: pSphere8
+    3300042: pSphere9
+    3300044: splash1
+    4300000: HIDEME
+    4300002: cuerpo1
+    4300004: Cuerno01
+    4300006: Cuerno02
+    4300008: pelo
+    4300010: lentes
+    4300012: ojo_izquierdo
+    4300014: ojo_derecho
+    4300016: calzoncllo
+    4300018: DevilTail
+    4300020: cejas1
+    4300022: pSphere10
+    4300024: pSphere9
+    4300026: pSphere8
+    4300028: pSphere7
+    4300030: pSphere6
+    4300032: pSphere5
+    4300034: pSphere4
+    4300036: pSphere3
+    4300038: pSphere2
+    4300040: pSphere1
+    4300042: meada
+    4300044: splash1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cejas
+    second: {fileID: 2100000, guid: 0e936eb0d6a02134a92a351f9fdf6952, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

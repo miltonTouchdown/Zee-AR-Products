@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ed8ab5a05dade64398a6378f210085d, type: 3}
+  m_Name: GameDataConfig
+  m_EditorClassIdentifier: 
+  levelsGame:
+  - levelType: 0
+    valueLvl: 0.6
+  - levelType: 1
+    valueLvl: 0.45
+  - levelType: 2
+    valueLvl: 0.27
+  velSingleShuffle:
+  - 1.5
+  - 1.5
+  - 1.5
+  - 1
+  - 1
+  - 1
+  - 0.7
+  - 0.7
+  - 0.6
+  - 0.6
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.45
+  - 0.45
+  - 0.45
+  - 0.4
+  - 0.4
+  dataPrize:
+  - namePrize: tu premio
+    nameFile:
+    - GiftBox
+    iconPrize: {fileID: 21300000, guid: 11b77f14cb9a51943a7b30aa0298bee4, type: 3}
+    prizeType: 1
+  - namePrize: "tus Rappi-Cr\xE9ditos"
+    nameFile:
+    - Ticket
+    - Coin
+    iconPrize: {fileID: 21300000, guid: 11b77f14cb9a51943a7b30aa0298bee4, type: 3}
+    prizeType: 2
+  feedbackGameOver:
+  - IsWinner: 1
+    Message: "\xA1Buen ojo! Canjea"
+  - IsWinner: 0
+    Message: "Buena suerte para la pr\xF3xima"
