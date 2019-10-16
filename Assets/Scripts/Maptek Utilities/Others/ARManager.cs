@@ -7,7 +7,12 @@
     {
         public TrophiesImageTarget activeTracker;
 
-        private ZeeARData.ARData currProductData;
+        private ZeeARData.ARData _currProductData;
+        public ZeeARData.ARData CurrProductData
+        {
+            get { return _currProductData; }
+        }
+
         private ARMenu _ARMenu;
 
         private static ARManager _instance;
@@ -34,7 +39,7 @@
                 Destroy(this);
             }
 
-            currProductData = ZeeAR.Visualization.AppManager.Instance.GetProductSelected();//AppManager.Instance.GetExpoSelected();
+            _currProductData = ZeeAR.Visualization.AppManager.Instance.GetProductSelected();//AppManager.Instance.GetExpoSelected();
 
             LoadSceneTrackers();
         }
@@ -63,7 +68,7 @@
 
         void LoadSceneTrackers()
         {
-            foreach (GameObject currPrefab in currProductData.trackersPrefab)
+            foreach (GameObject currPrefab in _currProductData.trackersPrefab)
             {
                 Instantiate(currPrefab);
             }

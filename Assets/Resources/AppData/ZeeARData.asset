@@ -15,13 +15,16 @@ MonoBehaviour:
   products:
   - NameProduct: Coca-Cola
     IdProduct: 0
+    Question: Do you like Coca-cola?
     trackersPrefab:
     - {fileID: 7368610367261692949, guid: 1facab94aa73a664daa87b58aaeb8e5a, type: 3}
   - NameProduct: Shoes
     IdProduct: 1
+    Question: Do you like this brand?
     trackersPrefab:
     - {fileID: 7368610367261692949, guid: c6e958286a6fc5a429ce35c76a6d7812, type: 3}
   - NameProduct: Chocolate
     IdProduct: 2
+    Question: What is your favorite flavor?
     trackersPrefab:
     - {fileID: 7368610367261692949, guid: e9c4ecfe8e9aa414ab6a31ef835cb10e, type: 3}

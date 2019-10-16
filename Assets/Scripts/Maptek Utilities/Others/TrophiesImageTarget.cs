@@ -237,7 +237,7 @@ namespace Trophies.Maptek
 
         protected virtual void OnTrackingFound()
         {
-            ARManager.Instance.AddTargetReference(this);
+            ARManager.Instance.AddTargetReference(this);         
 
             Debug.Log("OnTrackingFound: " + ARManager.Instance.name);
             if (isTrackeable) return;

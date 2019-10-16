@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace Trophies.Maptek
 {
@@ -9,6 +10,8 @@ namespace Trophies.Maptek
         public ModelTarget[] modelsTarget;
         public bool initModelsDeactivate = false;
         private Transform _modelsContent;
+
+        public UnityEvent OnInitialization;
 
         private void Start()
         {
@@ -117,6 +120,8 @@ namespace Trophies.Maptek
                     om.Model.SetActive(isActive);
                 }
             }
+
+            OnInitialization.Invoke();
         }
     }
 }

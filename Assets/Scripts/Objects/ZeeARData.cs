@@ -15,6 +15,8 @@
             public string NameProduct;
             public int IdProduct;
 
+            public string Question;
+
             public GameObject[] trackersPrefab;
         }
 
