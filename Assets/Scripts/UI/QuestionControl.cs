@@ -54,7 +54,7 @@
             float initValue = buttonSelected.rect.width;
             float timeTransition = .5f;
 
-            LeanTween.value(initValue, ScaleButtonSelected, timeTransition).setOnUpdate((float f) => 
+            LeanTween.value(initValue, ScaleButtonSelected, timeTransition).setEase(LeanTweenType.easeOutQuad).setOnUpdate((float f) => 
             {
                 buttonSelected.sizeDelta = new Vector2(f, f);
             }).setOnComplete(() => {

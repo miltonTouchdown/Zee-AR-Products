@@ -22,9 +22,9 @@ MonoBehaviour:
     IdProduct: 1
     Question: Do you like this brand?
     trackersPrefab:
-    - {fileID: 7368610367261692949, guid: c6e958286a6fc5a429ce35c76a6d7812, type: 3}
+    - {fileID: 7368610367261692949, guid: 57d35cbda8ae51a45be7b94d6fc877ee, type: 3}
   - NameProduct: Chocolate
     IdProduct: 2
-    Question: What is your favorite flavor?
+    Question: Do you like this chocolate?
     trackersPrefab:
-    - {fileID: 7368610367261692949, guid: e9c4ecfe8e9aa414ab6a31ef835cb10e, type: 3}
+    - {fileID: 7368610367261692949, guid: ed1cee89cbee9074c98b0e994d1913ed, type: 3}
